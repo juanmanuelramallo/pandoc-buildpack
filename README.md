@@ -6,7 +6,7 @@ A Heroku buildpack for [pandoc](http://pandoc.org).
 
 To install this buildpack run:
 ```
-heroku buildpacks:add https://github.com/illustrativemathematics/pandoc-buildpack.git -a your-app-name
+heroku buildpacks:add https://github.com/juanmanuelramallo/pandoc-buildpack.git -a your-app-name
 ```
 The buildpack will be installed on your next push to the app.
 
